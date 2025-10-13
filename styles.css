@@ -11,7 +11,14 @@ projects {
     display:flex; flex-wrap:wrap;
  } /* condensed to save space */
 
- .project {
+ .project1 {
+    width: 35%;
+    margin: 10px;
+    padding: 20px 10px;
+    background: rgb(240, 140, 64); /* pick a color */
+    border-radius: 25%;
+ }
+ .project2 {
     width: 30%;
     margin: 10px;
     padding: 20px 10px;

@@ -12,14 +12,7 @@ projects {
  } /* condensed to save space */
 
  .project {
-    width: 35%;
-    margin: 10px;
-    padding: 20px 10px;
-    background: rgb(240, 140, 64); /* pick a color */
-    border-radius: 25%;
- }
- .project {
-    width: 30%;
+    width: 40%;
     margin: 10px;
     padding: 20px 10px;
     background: rgb(240, 140, 64); /* pick a color */

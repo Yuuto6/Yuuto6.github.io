@@ -13,7 +13,7 @@ projects {
 
  .project {
     width: 20%;
-    margin: 15px;
+    margin: 30px;
     padding: 20px 10px;
     background: rgb(240, 140, 64); /* pick a color */
     border-radius: 20%;

@@ -15,6 +15,6 @@ projects {
     width: 40%;
     margin: 30px;
     padding: 20px 10px;
-    background: rgb(240, 140, 64); /* pick a color */
+    background: hwb(26 43% 3%); /* pick a color */
     border-radius: 20%;
 }

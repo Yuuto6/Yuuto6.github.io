@@ -16,5 +16,5 @@ projects {
     margin: 30px;
     padding: 20px 10px;
     background: hwb(26 43% 3%); /* pick a color */
-    border-radius: 20%;
+    border-radius: 50%;
 }

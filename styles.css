@@ -12,9 +12,9 @@ projects {
  } /* condensed to save space */
 
  .project {
-    width: 40%;
+    width: 20%;
     margin: 15px;
     padding: 20px 10px;
     background: rgb(240, 140, 64); /* pick a color */
-    border-radius: 35%;
+    border-radius: 20%;
 }

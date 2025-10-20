@@ -18,3 +18,12 @@ projects {
     background: hwb(26 43% 3%); /* pick a color */
     border-radius: 50%;
 }
+
+.project img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid  hwb(24 20% 4%); /* pick a color */
+    display: block;
+    margin: auto;
+}

@@ -17,6 +17,7 @@ projects {
     padding: 30px 20px;
     background: hwb(26 43% 3%); /* pick a color */
     border-radius: 50%;
+    text-align: center;
 }
 
 .project img{

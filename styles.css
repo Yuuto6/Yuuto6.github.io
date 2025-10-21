@@ -21,8 +21,8 @@ projects {
 }
 
 .project img{
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
     margin: 10px;
     border: 2px solid  hwb(24 20% 4%); /* pick a color */
     display: block;
